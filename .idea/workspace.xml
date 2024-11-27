@@ -164,7 +164,7 @@
       <workItem from="1732568636773" duration="5055000" />
       <workItem from="1732578206007" duration="1811000" />
       <workItem from="1732663022655" duration="2959000" />
-      <workItem from="1732666066106" duration="1964000" />
+      <workItem from="1732666066106" duration="1986000" />
     </task>
     <task id="LOCAL-00001" summary="fst commit">
       <option name="closed" value="true" />
@@ -214,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732667162119</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="agregado ips">
+      <option name="closed" value="true" />
+      <created>1732668059784</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732668059784</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
