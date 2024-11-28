@@ -1,0 +1,150 @@
+{
+	"abilities": {
+		"E": {
+			"abilityLevel": 0,
+			"displayName": "Zoomies",
+			"id": "YuumiE",
+			"rawDescription": "GeneratedTip_Spell_YuumiE_Description",
+			"rawDisplayName": "GeneratedTip_Spell_YuumiE_DisplayName"
+		},
+		"Passive": {
+			"displayName": "Amistad Felina",
+			"id": "YuumiP",
+			"rawDescription": "GeneratedTip_Passive_YuumiP_Description",
+			"rawDisplayName": "GeneratedTip_Passive_YuumiP_DisplayName"
+		},
+		"Q": {
+			"abilityLevel": 1,
+			"displayName": "Proyectil Acechador",
+			"id": "YuumiQ",
+			"rawDescription": "GeneratedTip_Spell_YuumiQ_Description",
+			"rawDisplayName": "GeneratedTip_Spell_YuumiQ_DisplayName"
+		},
+		"R": {
+			"abilityLevel": 0,
+			"displayName": "Últimas Páginas",
+			"id": "YuumiR",
+			"rawDescription": "GeneratedTip_Spell_YuumiR_Description",
+			"rawDisplayName": "GeneratedTip_Spell_YuumiR_DisplayName"
+		},
+		"W": {
+			"abilityLevel": 1,
+			"displayName": "¡Tú y Yo!",
+			"id": "YuumiW",
+			"rawDescription": "GeneratedTip_Spell_YuumiW_Description",
+			"rawDisplayName": "GeneratedTip_Spell_YuumiW_DisplayName"
+		}
+	},
+	"championStats": {
+		"abilityHaste": 0.0,
+		"abilityPower": 18.0,
+		"armor": 31.19499969482422,
+		"armorPenetrationFlat": 0.0,
+		"armorPenetrationPercent": 1.0,
+		"attackDamage": 53.5724983215332,
+		"attackRange": 425.0,
+		"attackSpeed": 0.6342187523841858,
+		"bonusArmorPenetrationPercent": 1.0,
+		"bonusMagicPenetrationPercent": 1.0,
+		"critChance": 0.0,
+		"critDamage": 175.0,
+		"currentHealth": 631.7750244140625,
+		"healShieldPower": 0.0,
+		"healthRegenRate": 1.16225004196167,
+		"lifeSteal": 0.0,
+		"magicLethality": 0.0,
+		"magicPenetrationFlat": 0.0,
+		"magicPenetrationPercent": 1.0,
+		"magicResist": 26.622499465942384,
+		"maxHealth": 631.7750244140625,
+		"moveSpeed": 330.0,
+		"omnivamp": 0.0,
+		"physicalLethality": 0.0,
+		"physicalVamp": 0.0,
+		"resourceMax": 506.375,
+		"resourceRegenRate": 2.118000030517578,
+		"resourceType": "MANA",
+		"resourceValue": 506.375,
+		"spellVamp": 0.0,
+		"tenacity": 5.0
+	},
+	"currentGold": 1055.9102783203126,
+	"fullRunes": {
+		"generalRunes": [
+			{
+				"displayName": "Invocación: Aery",
+				"id": 8214,
+				"rawDescription": "perk_tooltip_SummonAery",
+				"rawDisplayName": "perk_displayname_SummonAery"
+			},
+			{
+				"displayName": "Anillo de Flujo de Maná",
+				"id": 8226,
+				"rawDescription": "perk_tooltip_8226",
+				"rawDisplayName": "perk_displayname_8226"
+			},
+			{
+				"displayName": "Trascendencia",
+				"id": 8210,
+				"rawDescription": "perk_tooltip_Transcendence",
+				"rawDisplayName": "perk_displayname_Transcendence"
+			},
+			{
+				"displayName": "Quemadura",
+				"id": 8237,
+				"rawDescription": "perk_tooltip_Scorch",
+				"rawDisplayName": "perk_displayname_Scorch"
+			},
+			{
+				"displayName": "Corte",
+				"id": 8017,
+				"rawDescription": "perk_tooltip_CutDown",
+				"rawDisplayName": "perk_displayname_CutDown"
+			},
+			{
+				"displayName": "Concentración Profunda",
+				"id": 8009,
+				"rawDescription": "perk_tooltip_PresenceOfMind",
+				"rawDisplayName": "perk_displayname_PresenceOfMind"
+			}
+		],
+		"keystone": {
+			"displayName": "Invocación: Aery",
+			"id": 8214,
+			"rawDescription": "perk_tooltip_SummonAery",
+			"rawDisplayName": "perk_displayname_SummonAery"
+		},
+		"primaryRuneTree": {
+			"displayName": "Brujería",
+			"id": 8200,
+			"rawDescription": "perkstyle_tooltip_7202",
+			"rawDisplayName": "perkstyle_displayname_7202"
+		},
+		"secondaryRuneTree": {
+			"displayName": "Precisión",
+			"id": 8000,
+			"rawDescription": "perkstyle_tooltip_7201",
+			"rawDisplayName": "perkstyle_displayname_7201"
+		},
+		"statRunes": [
+			{
+				"id": 5008,
+				"rawDescription": "perk_tooltip_StatModAdaptive"
+			},
+			{
+				"id": 5008,
+				"rawDescription": "perk_tooltip_StatModAdaptive"
+			},
+			{
+				"id": 5001,
+				"rawDescription": "perk_tooltip_StatModHealthScaling"
+			}
+		]
+	},
+	"level": 3,
+	"riotId": "Máximo Cozzetti#PabC",
+	"riotIdGameName": "Máximo Cozzetti",
+	"riotIdTagLine": "PabC",
+	"summonerName": "Máximo Cozzetti#PabC",
+	"teamRelativeColors": true
+}

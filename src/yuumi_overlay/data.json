@@ -1,0 +1,150 @@
+{
+    "abilities": {
+        "E": {
+            "abilityLevel": 1,
+            "displayName": "Zoomies",
+            "id": "YuumiE",
+            "rawDescription": "GeneratedTip_Spell_YuumiE_Description",
+            "rawDisplayName": "GeneratedTip_Spell_YuumiE_DisplayName"
+        },
+        "Passive": {
+            "displayName": "Amistad Felina",
+            "id": "YuumiP",
+            "rawDescription": "GeneratedTip_Passive_YuumiP_Description",
+            "rawDisplayName": "GeneratedTip_Passive_YuumiP_DisplayName"
+        },
+        "Q": {
+            "abilityLevel": 2,
+            "displayName": "Proyectil Acechador",
+            "id": "YuumiQ",
+            "rawDescription": "GeneratedTip_Spell_YuumiQ_Description",
+            "rawDisplayName": "GeneratedTip_Spell_YuumiQ_DisplayName"
+        },
+        "R": {
+            "abilityLevel": 0,
+            "displayName": "\u00daltimas P\u00e1ginas",
+            "id": "YuumiR",
+            "rawDescription": "GeneratedTip_Spell_YuumiR_Description",
+            "rawDisplayName": "GeneratedTip_Spell_YuumiR_DisplayName"
+        },
+        "W": {
+            "abilityLevel": 1,
+            "displayName": "\u00a1T\u00fa y Yo!",
+            "id": "YuumiW",
+            "rawDescription": "GeneratedTip_Spell_YuumiW_Description",
+            "rawDisplayName": "GeneratedTip_Spell_YuumiW_DisplayName"
+        }
+    },
+    "championStats": {
+        "abilityHaste": 0.0,
+        "abilityPower": 9.0,
+        "armor": 31.19499969482422,
+        "armorPenetrationFlat": 0.0,
+        "armorPenetrationPercent": 1.0,
+        "attackDamage": 53.5724983215332,
+        "attackRange": 425.0,
+        "attackSpeed": 0.7154687643051147,
+        "bonusArmorPenetrationPercent": 1.0,
+        "bonusMagicPenetrationPercent": 1.0,
+        "critChance": 0.0,
+        "critDamage": 175.0,
+        "currentHealth": 631.7750244140625,
+        "healShieldPower": 0.0,
+        "healthRegenRate": 1.16225004196167,
+        "lifeSteal": 0.0,
+        "magicLethality": 0.0,
+        "magicPenetrationFlat": 0.0,
+        "magicPenetrationPercent": 1.0,
+        "magicResist": 26.622499465942383,
+        "maxHealth": 631.7750244140625,
+        "moveSpeed": 330.0,
+        "omnivamp": 0.0,
+        "physicalLethality": 0.0,
+        "physicalVamp": 0.0,
+        "resourceMax": 506.375,
+        "resourceRegenRate": 2.118000030517578,
+        "resourceType": "MANA",
+        "resourceValue": 506.375,
+        "spellVamp": 0.0,
+        "tenacity": 5.0
+    },
+    "currentGold": 21369.66015625,
+    "fullRunes": {
+        "generalRunes": [
+            {
+                "displayName": "Cadencia Letal",
+                "id": 8008,
+                "rawDescription": "perk_tooltip_LethalTempo",
+                "rawDisplayName": "perk_displayname_LethalTempo"
+            },
+            {
+                "displayName": "Triunfo",
+                "id": 9111,
+                "rawDescription": "perk_tooltip_9111",
+                "rawDisplayName": "perk_displayname_9111"
+            },
+            {
+                "displayName": "Leyenda: Celeridad",
+                "id": 9104,
+                "rawDescription": "perk_tooltip_9104",
+                "rawDisplayName": "perk_displayname_9104"
+            },
+            {
+                "displayName": "Golpe de Gracia",
+                "id": 8014,
+                "rawDescription": "perk_tooltip_CoupDeGrace",
+                "rawDisplayName": "perk_displayname_CoupDeGrace"
+            },
+            {
+                "displayName": "Acondicionamiento",
+                "id": 8429,
+                "rawDescription": "perk_tooltip_Conditioning",
+                "rawDisplayName": "perk_displayname_Conditioning"
+            },
+            {
+                "displayName": "Crecimiento Excesivo",
+                "id": 8451,
+                "rawDescription": "perk_tooltip_Overgrowth",
+                "rawDisplayName": "perk_displayname_Overgrowth"
+            }
+        ],
+        "keystone": {
+            "displayName": "Cadencia Letal",
+            "id": 8008,
+            "rawDescription": "perk_tooltip_LethalTempo",
+            "rawDisplayName": "perk_displayname_LethalTempo"
+        },
+        "primaryRuneTree": {
+            "displayName": "Precisi\u00f3n",
+            "id": 8000,
+            "rawDescription": "perkstyle_tooltip_7201",
+            "rawDisplayName": "perkstyle_displayname_7201"
+        },
+        "secondaryRuneTree": {
+            "displayName": "Valor",
+            "id": 8400,
+            "rawDescription": "perkstyle_tooltip_7204",
+            "rawDisplayName": "perkstyle_displayname_7204"
+        },
+        "statRunes": [
+            {
+                "id": 5005,
+                "rawDescription": "perk_tooltip_StatModAttackSpeed"
+            },
+            {
+                "id": 5008,
+                "rawDescription": "perk_tooltip_StatModAdaptive"
+            },
+            {
+                "id": 5001,
+                "rawDescription": "perk_tooltip_StatModHealthScaling"
+            }
+        ]
+    },
+    "level": 3,
+    "riotId": "M\u00e1ximo Cozzetti#PabC",
+    "riotIdGameName": "M\u00e1ximo Cozzetti",
+    "riotIdTagLine": "PabC",
+    "summonerName": "M\u00e1ximo Cozzetti#PabC",
+    "teamRelativeColors": true
+}
