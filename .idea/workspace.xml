@@ -53,7 +53,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2pMGfOzBVRi6PiSFBGb9rE7j7KZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -61,21 +63,31 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.adc_main.executor": "Run",
+    "Python.data_yuumi.executor": "Run",
+    "Python.fetch_save_json.executor": "Run",
+    "Python.haste (1).executor": "Run",
+    "Python.haste.executor": "Run",
     "Python.main (1).executor": "Run",
     "Python.main.executor": "Run",
+    "Python.math.executor": "Run",
     "Python.networks.executor": "Run",
+    "Python.overlay.executor": "Run",
+    "Python.proxy_server.executor": "Run",
+    "Python.receiver.executor": "Run",
+    "Python.yuumi_main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/lucho/PycharmProjects/PythonProject/yuumi/src",
+    "last_opened_file_path": "C:/Users/lucho/PycharmProjects/PythonProject/src/yuumi_overlay/ids",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -88,11 +100,21 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lucho\PycharmProjects\PythonProject\src\yuumi_overlay\ids" />
       <recent name="C:\Users\lucho\PycharmProjects\PythonProject\yuumi\src" />
+      <recent name="C:\Users\lucho\PycharmProjects\PythonProject\main" />
+      <recent name="C:\Users\lucho\PycharmProjects\PythonProject\yuumi" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lucho\PycharmProjects\PythonProject\src\yuumi_overlay\ids" />
+      <recent name="C:\Users\lucho\PycharmProjects\PythonProject\src\yuumi_overlay" />
+      <recent name="C:\Users\lucho\PycharmProjects\PythonProject\src\img" />
+      <recent name="C:\Users\lucho\PycharmProjects\PythonProject" />
+      <recent name="C:\Users\lucho\PycharmProjects\PythonProject\main\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.overlay">
+    <configuration name="haste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="solo-bot" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,12 +123,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yuumi/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/yuumi_overlay" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yuumi/src/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/yuumi_overlay/haste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="overlay" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="solo-bot" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,12 +146,58 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/yuumi_overlay" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/src/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/yuumi_overlay/overlay.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="proxy_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="solo-bot" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/yuumi_overlay" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/yuumi_overlay/proxy_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="receiver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="solo-bot" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/yuumi_overlay" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/yuumi_overlay/receiver.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,8 +208,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main" />
+        <item itemvalue="Python.overlay" />
+        <item itemvalue="Python.proxy_server" />
+        <item itemvalue="Python.haste" />
+        <item itemvalue="Python.receiver" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +234,12 @@
       <workItem from="1732568636773" duration="5055000" />
       <workItem from="1732578206007" duration="1811000" />
       <workItem from="1732663022655" duration="2959000" />
-      <workItem from="1732666066106" duration="1986000" />
+      <workItem from="1732666066106" duration="5070000" />
+      <workItem from="1732714445908" duration="21965000" />
+      <workItem from="1732754680346" duration="1984000" />
+      <workItem from="1732822152742" duration="24864000" />
+      <workItem from="1732862380293" duration="399000" />
+      <workItem from="1732917606207" duration="7505000" />
     </task>
     <task id="LOCAL-00001" summary="fst commit">
       <option name="closed" value="true" />
@@ -222,7 +297,47 @@
       <option name="project" value="LOCAL" />
       <updated>1732668059784</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="agregado ips">
+      <option name="closed" value="true" />
+      <created>1732668080324</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732668080324</updated>
+    </task>
+    <task id="LOCAL-00009" summary="agregado ips">
+      <option name="closed" value="true" />
+      <created>1732669818077</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732669818077</updated>
+    </task>
+    <task id="LOCAL-00010" summary="agregado ips">
+      <option name="closed" value="true" />
+      <created>1732744992020</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732744992020</updated>
+    </task>
+    <task id="LOCAL-00011" summary="proxy y receptor">
+      <option name="closed" value="true" />
+      <created>1732835771972</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732835771972</updated>
+    </task>
+    <task id="LOCAL-00012" summary="proxy y receptor">
+      <option name="closed" value="true" />
+      <created>1732923667393</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1732923667393</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,12 +348,34 @@
     <MESSAGE value="gitignore" />
     <MESSAGE value="organizando ando!" />
     <MESSAGE value="agregado ips" />
-    <option name="LAST_COMMIT_MESSAGE" value="agregado ips" />
+    <MESSAGE value="proxy y receptor" />
+    <option name="LAST_COMMIT_MESSAGE" value="proxy y receptor" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/yuumi_overlay/overlay.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1732573742284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/solo_bot$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1732668030059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yuumi/src" />
-    <SUITE FILE_PATH="coverage/solo_bot$main.coverage" NAME="main Coverage Results" MODIFIED="1732667760459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/src" />
+    <SUITE FILE_PATH="coverage/solo_bot$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1732669869391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yuumi/src" />
+    <SUITE FILE_PATH="coverage/solo_bot$proxy_server.coverage" NAME="proxy_server Coverage Results" MODIFIED="1732925168527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/yuumi_overlay" />
+    <SUITE FILE_PATH="coverage/solo_bot$fetch_save_json.coverage" NAME="fetch_save_json Coverage Results" MODIFIED="1732829400589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/yuumi_overlay" />
+    <SUITE FILE_PATH="coverage/solo_bot$haste.coverage" NAME="haste Coverage Results" MODIFIED="1732924124600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/yuumi_overlay" />
+    <SUITE FILE_PATH="coverage/solo_bot$yuumi_main.coverage" NAME="yuumi_main Coverage Results" MODIFIED="1732727497509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/solo_bot$haste__1_.coverage" NAME="haste (1) Coverage Results" MODIFIED="1732919858105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/yuumi_overlay" />
+    <SUITE FILE_PATH="coverage/solo_bot$receiver.coverage" NAME="receiver Coverage Results" MODIFIED="1732922195253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/yuumi_overlay" />
+    <SUITE FILE_PATH="coverage/solo_bot$adc_main.coverage" NAME="adc_main Coverage Results" MODIFIED="1732727594859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/solo_bot$math.coverage" NAME="haste Coverage Results" MODIFIED="1732860019114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/yuumi_overlay" />
+    <SUITE FILE_PATH="coverage/solo_bot$data_yuumi.coverage" NAME="data_yuumi Coverage Results" MODIFIED="1732750495080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/yuumi_overlay" />
+    <SUITE FILE_PATH="coverage/solo_bot$main.coverage" NAME="main Coverage Results" MODIFIED="1732725011774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/src" />
+    <SUITE FILE_PATH="coverage/solo_bot$overlay.coverage" NAME="overlay Coverage Results" MODIFIED="1732925171954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/yuumi_overlay" />
     <SUITE FILE_PATH="coverage/solo_bot$networks.coverage" NAME="networks Coverage Results" MODIFIED="1732665939043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/src" />
   </component>
 </project>

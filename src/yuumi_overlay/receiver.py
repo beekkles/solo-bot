@@ -26,6 +26,3 @@ def fetch_loop():
     while True:
         fetch_and_save_json()
         time.sleep(1)
-
-if __name__ == "__main__":
-    fetch_loop()

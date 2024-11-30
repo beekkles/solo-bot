@@ -1,7 +1,7 @@
 {
     "abilities": {
         "E": {
-            "abilityLevel": 1,
+            "abilityLevel": 5,
             "displayName": "Zoomies",
             "id": "YuumiE",
             "rawDescription": "GeneratedTip_Spell_YuumiE_Description",
@@ -14,21 +14,21 @@
             "rawDisplayName": "GeneratedTip_Passive_YuumiP_DisplayName"
         },
         "Q": {
-            "abilityLevel": 2,
+            "abilityLevel": 6,
             "displayName": "Proyectil Acechador",
             "id": "YuumiQ",
             "rawDescription": "GeneratedTip_Spell_YuumiQ_Description",
             "rawDisplayName": "GeneratedTip_Spell_YuumiQ_DisplayName"
         },
         "R": {
-            "abilityLevel": 0,
+            "abilityLevel": 2,
             "displayName": "\u00daltimas P\u00e1ginas",
             "id": "YuumiR",
             "rawDescription": "GeneratedTip_Spell_YuumiR_Description",
             "rawDisplayName": "GeneratedTip_Spell_YuumiR_DisplayName"
         },
         "W": {
-            "abilityLevel": 1,
+            "abilityLevel": 2,
             "displayName": "\u00a1T\u00fa y Yo!",
             "id": "YuumiW",
             "rawDescription": "GeneratedTip_Spell_YuumiW_Description",
@@ -36,100 +36,100 @@
         }
     },
     "championStats": {
-        "abilityHaste": 0.0,
-        "abilityPower": 9.0,
-        "armor": 31.19499969482422,
+        "abilityHaste": 10.0,
+        "abilityPower": 18.0,
+        "armor": 75.77799987792969,
         "armorPenetrationFlat": 0.0,
         "armorPenetrationPercent": 1.0,
-        "attackDamage": 53.5724983215332,
+        "attackDamage": 86.47900390625,
         "attackRange": 425.0,
-        "attackSpeed": 0.7154687643051147,
+        "attackSpeed": 0.7005625367164612,
         "bonusArmorPenetrationPercent": 1.0,
         "bonusMagicPenetrationPercent": 1.0,
         "critChance": 0.0,
         "critDamage": 175.0,
-        "currentHealth": 631.7750244140625,
+        "currentHealth": 1474.2100830078125,
         "healShieldPower": 0.0,
-        "healthRegenRate": 1.16225004196167,
+        "healthRegenRate": 2.3299002647399902,
         "lifeSteal": 0.0,
         "magicLethality": 0.0,
         "magicPenetrationFlat": 0.0,
         "magicPenetrationPercent": 1.0,
-        "magicResist": 26.622499465942383,
-        "maxHealth": 631.7750244140625,
+        "magicResist": 38.29900360107422,
+        "maxHealth": 1474.2100830078125,
         "moveSpeed": 330.0,
         "omnivamp": 0.0,
         "physicalLethality": 0.0,
         "physicalVamp": 0.0,
-        "resourceMax": 506.375,
-        "resourceRegenRate": 2.118000030517578,
+        "resourceMax": 984.050048828125,
+        "resourceRegenRate": 2.9672000408172607,
         "resourceType": "MANA",
-        "resourceValue": 506.375,
+        "resourceValue": 984.050048828125,
         "spellVamp": 0.0,
         "tenacity": 5.0
     },
-    "currentGold": 21369.66015625,
+    "currentGold": 100000.0,
     "fullRunes": {
         "generalRunes": [
             {
-                "displayName": "Cadencia Letal",
-                "id": 8008,
-                "rawDescription": "perk_tooltip_LethalTempo",
-                "rawDisplayName": "perk_displayname_LethalTempo"
+                "displayName": "Cometa Arcano",
+                "id": 8229,
+                "rawDescription": "perk_tooltip_ArcaneComet",
+                "rawDisplayName": "perk_displayname_ArcaneComet"
             },
             {
-                "displayName": "Triunfo",
-                "id": 9111,
-                "rawDescription": "perk_tooltip_9111",
-                "rawDisplayName": "perk_displayname_9111"
+                "displayName": "Anillo de Flujo de Man\u00e1",
+                "id": 8226,
+                "rawDescription": "perk_tooltip_8226",
+                "rawDisplayName": "perk_displayname_8226"
             },
             {
-                "displayName": "Leyenda: Celeridad",
-                "id": 9104,
-                "rawDescription": "perk_tooltip_9104",
-                "rawDisplayName": "perk_displayname_9104"
+                "displayName": "Trascendencia",
+                "id": 8210,
+                "rawDescription": "perk_tooltip_Transcendence",
+                "rawDisplayName": "perk_displayname_Transcendence"
             },
             {
-                "displayName": "Golpe de Gracia",
-                "id": 8014,
-                "rawDescription": "perk_tooltip_CoupDeGrace",
-                "rawDisplayName": "perk_displayname_CoupDeGrace"
+                "displayName": "Quemadura",
+                "id": 8237,
+                "rawDescription": "perk_tooltip_Scorch",
+                "rawDisplayName": "perk_displayname_Scorch"
             },
             {
-                "displayName": "Acondicionamiento",
-                "id": 8429,
-                "rawDescription": "perk_tooltip_Conditioning",
-                "rawDisplayName": "perk_displayname_Conditioning"
+                "displayName": "Corte",
+                "id": 8017,
+                "rawDescription": "perk_tooltip_CutDown",
+                "rawDisplayName": "perk_displayname_CutDown"
             },
             {
-                "displayName": "Crecimiento Excesivo",
-                "id": 8451,
-                "rawDescription": "perk_tooltip_Overgrowth",
-                "rawDisplayName": "perk_displayname_Overgrowth"
+                "displayName": "Concentraci\u00f3n Profunda",
+                "id": 8009,
+                "rawDescription": "perk_tooltip_PresenceOfMind",
+                "rawDisplayName": "perk_displayname_PresenceOfMind"
             }
         ],
         "keystone": {
-            "displayName": "Cadencia Letal",
-            "id": 8008,
-            "rawDescription": "perk_tooltip_LethalTempo",
-            "rawDisplayName": "perk_displayname_LethalTempo"
+            "displayName": "Cometa Arcano",
+            "id": 8229,
+            "rawDescription": "perk_tooltip_ArcaneComet",
+            "rawDisplayName": "perk_displayname_ArcaneComet"
         },
         "primaryRuneTree": {
+            "displayName": "Brujer\u00eda",
+            "id": 8200,
+            "rawDescription": "perkstyle_tooltip_7202",
+            "rawDisplayName": "perkstyle_displayname_7202"
+        },
+        "secondaryRuneTree": {
             "displayName": "Precisi\u00f3n",
             "id": 8000,
             "rawDescription": "perkstyle_tooltip_7201",
             "rawDisplayName": "perkstyle_displayname_7201"
         },
-        "secondaryRuneTree": {
-            "displayName": "Valor",
-            "id": 8400,
-            "rawDescription": "perkstyle_tooltip_7204",
-            "rawDisplayName": "perkstyle_displayname_7204"
-        },
         "statRunes": [
             {
-                "id": 5005,
-                "rawDescription": "perk_tooltip_StatModAttackSpeed"
+                "id": 5008,
+                "rawDescription": "perk_tooltip_StatModAdaptive"
             },
             {
                 "id": 5008,
@@ -141,7 +141,7 @@
             }
         ]
     },
-    "level": 3,
+    "level": 14,
     "riotId": "M\u00e1ximo Cozzetti#PabC",
     "riotIdGameName": "M\u00e1ximo Cozzetti",
     "riotIdTagLine": "PabC",
